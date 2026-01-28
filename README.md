@@ -1,5 +1,10 @@
 ## 📋 프로젝트 개요
 
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Detection-111111)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-CNN-364FC7)
+![Architecture](https://img.shields.io/badge/Architecture-Strategy%20Pattern-6F42C1)
+
 진행 인원: 5인 팀 프로젝트
 
 내용: 현대오토에버 스마트팩토리 2기 과정 중 수행한 프로젝트로, 운전자의 상태를 실시간으로 모니터링하여 눈 감김 여부로, 졸음운전 위험을 감지하고 경고하는 시스템입니다.
